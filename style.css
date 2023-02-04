@@ -1,0 +1,15 @@
+.mr {
+    margin-right: 5px;
+}
+
+.im {
+    width: 100%;
+    height: 100%;
+    object-fit: fill
+}
+
+.rm {
+    max-width: 100%;
+    width: 450px;
+    height: 303px;
+}
